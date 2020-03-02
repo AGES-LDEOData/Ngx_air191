@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 10.022762537462764,
+        "error": 10.022762537462734,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -19,7 +19,7 @@
         "value": 10278.78068584001
     },
     "Ar37": {
-        "error": 1.8527706194388381e-07,
+        "error": 8.431673048311138e-08,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3.2719994059360502e-06
+        "value": 3.2812509099737024e-06
     },
     "Ar38": {
         "error": 3.108195038368533e-07,
@@ -57,7 +57,7 @@
         "value": 3.7353853651906114e-05
     },
     "Ar39": {
-        "error": 2.2178918693345502e-07,
+        "error": 1.0910795509695896e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -7.050288140959422e-06
+        "value": -6.434069988851358e-06
     },
     "Ar40": {
-        "error": 7.028509275048373e-06,
+        "error": 7.0285092750483685e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.05733039002316708
+        "value": 0.0573303900231671
     }
 }
