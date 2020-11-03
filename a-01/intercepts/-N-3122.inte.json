@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 9.384358363967335,
+        "error": 9.384358363967308,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -19,7 +19,7 @@
         "value": 10255.004921905318
     },
     "Ar37": {
-        "error": 2.2285729960465465e-07,
+        "error": 1.0293481956042812e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.9696901308104277e-06
+        "value": 3.061574530723495e-06
     },
     "Ar38": {
         "error": 2.975039766923223e-07,
@@ -57,7 +57,7 @@
         "value": 3.771753125714127e-05
     },
     "Ar39": {
-        "error": 2.022994014001219e-07,
+        "error": 1.1933363488430353e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -7.7257710423369e-06
+        "value": -6.637023519336556e-06
     },
     "Ar40": {
-        "error": 7.284762937594203e-06,
+        "error": 7.284762937594075e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.057713794225525944
+        "value": 0.05771379422552592
     }
 }
